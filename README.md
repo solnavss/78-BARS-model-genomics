@@ -1,2 +1,3 @@
 # Genomics-recapitulates-antagonistic-interactions
-Genome-scale metabolic modeling recapitulate pairwise antagonistic interactions in sedimentary bacteria
+
+Scripts for analysis and figures included in Navarro-Miranda et al. 2024.
